@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-cyan-100 p-4">
       <div className="bg-cyan-200 shadow-md rounded-md p-25 max-w-md w-full text-center">
-        <h1 className="sm:text-xl text-3xl lg:font-bold text-teal-500 mb-10 font-mono underline">
+        <h1 className="xs:text-xl text-3xl lg:font-bold text-teal-500 mb-10 font-mono underline">
           Cat-Facts
         </h1>
 
