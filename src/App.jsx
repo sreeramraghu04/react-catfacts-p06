@@ -20,7 +20,7 @@ function App() {
 
         <button
           onClick={FetchData}
-          className="bg-teal-500 hover:bg-teal-700 text-white font-semibold py-3 px-6 rounded-md shadow-md mb-4 cursor-pointer"
+          className="sm:text-xl bg-teal-500 hover:bg-teal-700 text-white font-semibold py-3 px-6 rounded-md shadow-md mb-4 cursor-pointer"
         >
           Get a Cat-Fact
         </button>
