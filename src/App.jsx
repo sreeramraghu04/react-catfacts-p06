@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-cyan-100 p-4">
       <div className="bg-cyan-200 shadow-md rounded-md p-10 max-w-md w-full text-center">
-        <h1 className="text-3xl font-bold text-teal-500 mb-10 font-mono underline">
+        <h1 className="text-3xl font-bold text-teal-500 mb-12 font-mono underline mt-5">
           Cat-Facts
         </h1>
 
@@ -25,7 +25,9 @@ function App() {
           Get a Cat-Fact
         </button>
 
-        <div className="text-gray-500 text-lg font-serif mt-4 mx-auto w-[250px] text-center">{catFact}</div>
+        <div className="text-gray-500 font-serif mt-4  text-center">
+          {catFact}
+        </div>
       </div>
     </div>
   );
