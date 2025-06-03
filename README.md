@@ -25,4 +25,4 @@ A simple and fun React application that fetches random cat facts from an externa
 
 ## Demo Link
 
-[live Demo](https://r-react-catfactsapp.netlify.app/)
+[live Demo](https://ram-react-catfactsapp.netlify.app/)
